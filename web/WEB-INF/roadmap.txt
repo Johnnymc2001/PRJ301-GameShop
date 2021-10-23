@@ -1,0 +1,13 @@
+=login.html
+Login=LoginServlet
+Logout=LogoutServlet
+Search=SearchLastnameServlet
+Delete=DeleteAccountServlet
+Update=UpdateAccountServlet
+Create=CreateNewAccountServlet
+=StartupServlet
+AddCart=AddItemToCartServlet
+ViewCart=ViewCartServlet
+ViewCartJsp=cart.jsp
+RemoveCart=RemoveCartServlet
+CheckoutCart=CheckoutCartServlet
